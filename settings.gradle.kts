@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Launch Modes"
+rootProject.name = "Register For Activity Result"
 include(":app")
  
