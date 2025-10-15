@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Intents Introduction"
+rootProject.name = "Activity Results"
 include(":app")
  
